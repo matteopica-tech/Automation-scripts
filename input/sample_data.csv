@@ -1,0 +1,9 @@
+data,cliente,categoria,descrizione,importo,stato
+2026-05-01,Studio Rossi,Consulenza,Supporto tecnico remoto,250.00,Pagato
+2026-05-02,Alpha SRL,Sviluppo,Automazione report Excel,480.00,Pagato
+2026-05-03,Beta SNC,Database,Ottimizzazione query SQL,320.00,In attesa
+2026-05-04,Studio Verdi,Consulenza,Troubleshooting applicativo,180.00,Pagato
+2026-05-05,Alpha SRL,Sviluppo,Script Python parsing CSV,390.00,Pagato
+2026-05-06,Gamma SRL,Monitoring,Setup dashboard monitoring,650.00,In attesa
+2026-05-07,Beta SNC,Database,Analisi anomalie dati,270.00,Pagato
+2026-05-08,Studio Rossi,Automazione,Generazione report automatico,420.00,Pagato
